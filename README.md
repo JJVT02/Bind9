@@ -1,4 +1,4 @@
-# **Bind9**
+# Bind9
 # [Instalacion](instalacion.md)
 # [Configuracion](configuracion.md)
 # [Creacion de archivos de zona](creacion.md)

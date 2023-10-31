@@ -1,6 +1,6 @@
 # Bind9
 # [Instalacion](instalacion.md)
-# [Configuracion](configuraion.md)
+# [Configuracion](configuracion.md)
 # [Creacion de archivos de zona](creacion.md)
 # [Reinicio](reinicion.md)
 # [Verificacion de configuracion](verificacion.md)
